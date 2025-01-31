@@ -1,4 +1,3 @@
-```markdown
 # Worker Safety Monitoring Using Thermal Imaging
 
 ## Overview
@@ -28,8 +27,7 @@ The project utilizes the **ThermalPersonDetector** dataset, comprising 8,778 sam
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/worker-safety-monitoring.git
-   cd worker-safety-monitoring
+   cd FiftyHackathon
    ```
 
 2. **Create Virtual Environment:**
@@ -39,9 +37,7 @@ The project utilizes the **ThermalPersonDetector** dataset, comprising 8,778 sam
    ```
 
 3. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
+   - Check folder
 
 4. **Download Dataset:**
    - Obtain the ThermalPersonDetector dataset and place it in the `data/` directory. Make sure the dataset is properly annotated with bounding boxes for training.
@@ -50,10 +46,6 @@ The project utilizes the **ThermalPersonDetector** dataset, comprising 8,778 sam
    - Fine-tune the YOLOv5 model using the provided dataset.
    - Training scripts and configurations can be found in the `scripts/` directory.
 
-6. **Run Real-Time Detection:**
-   ```bash
-   python monitor.py
-   ```
 
 ## Usage
 
@@ -75,8 +67,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For any questions or suggestions, please contact [Aishwarya Dekhane - adekhane@umich.edu - Track (A)
-Atharva Pore - atharva@umich.edu - Track (A)
+For any questions or suggestions, please contact [Aishwarya Dekhane - adekhane@umich.edu - Track (A)  
+Atharva Pore - atharva@umich.edu - Track (A)  
 Kritika Sharma - kritish@umich.edu - Track (A)](mailto:adekhane@umich.edu).
 
-```
